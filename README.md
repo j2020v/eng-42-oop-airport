@@ -12,3 +12,19 @@
 - Passengers class will inherit the name from the People class and add on other attributes such as the customer ID using super().__init__
 - Create a Flights class which stores the flight number, destination, origin, time and list of passengers. 
 - For methods I should be able to accomplish all user stories. 
+
+People:
+- First name
+- Last name 
+
+Passenger:
+- CustomerID
+- First name
+- Last name
+
+Flight:
+- Flight number
+- Destination
+- Origin
+- Time
+- Passenger list and info (name and customerID)
